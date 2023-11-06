@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallRecordingApp</string>
+    <string name="get_latest_call_recording_of_selected_phone_number">Get latest Call Recording of Selected Phone Number</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+</resources>
